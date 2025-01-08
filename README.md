@@ -6,38 +6,38 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full Stack com experiên
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Habilidades
 
-**Linguagens de Programação**  
+### **Linguagens de Programação**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-**Frontend**  
+### **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 
-**Backend**  
+### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=white&style=for-the-badge)  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
 
-**Banco de Dados**  
+### **Banco de Dados**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
 
-**Outras Ferramentas e Conceitos**  
+### **Ferramentas e Conceitos**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)  
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
-**Outras Habilidades**  
-- Testes com JUnit  
-- Versionamento de código com Git, GitHub  
-- UI/UX Design com Figma  
+### **Outras Habilidades**  
+- **Testes de Software**: JUnit  
+- **Versionamento de Código**: Git, GitHub  
+- **Design de UI/UX**: Figma  
 
 ---
 
@@ -80,6 +80,7 @@ Sistema de controle de presença com reconhecimento facial, utilizando **Spring 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyrtonF&theme=midnight-purple&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonF&theme=midnight-purple&hide_border=true&count_private=true&layout=compact)  
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyrtonF&theme=midnight-purple&hide_border=true)
 
 ---
