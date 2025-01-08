@@ -28,16 +28,23 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full Stack com experiên
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)  
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
 
-### **Ferramentas e Conceitos**  
+### **Ferramentas e Tecnologias**
+
+#### **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
-### **Outras Habilidades**  
-- **Testes de Software**: JUnit  
-- **Versionamento de Código**: Git, GitHub  
-- **Design de UI/UX**: Figma  
+#### **Versionamento & Colaboração**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+#### **Testes & Qualidade de Código**
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)  
+
+#### **Design e UX/UI**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
@@ -81,6 +88,7 @@ Sistema de controle de presença com reconhecimento facial, utilizando **Spring 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyrtonF&theme=midnight-purple&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonF&theme=midnight-purple&hide_border=true&count_private=true&layout=compact)  
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyrtonF&theme=midnight-purple&hide_border=true)
 
 ---
 
