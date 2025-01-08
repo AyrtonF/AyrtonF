@@ -50,7 +50,7 @@ Marketplace desenvolvido para o setor agropecuário, conectando vendedores e com
 - **Principais Tecnologias:** Node.js, React, Prisma ORM, PostgreSQL
 - **Objetivo:** Modernizar o setor agropecuário e facilitar a compra e venda de produtos rurais.
 
-### [Sistema de Controle de Presença Acadêmica](https://github.com/AyrtonF/attendance-system)
+### [Sistema de Controle de Presença Acadêmica](https://github.com/andrefilipe1310/attendance-system)
 Sistema de controle de presença com reconhecimento facial, utilizando **Spring Boot**, **Angular**, e **OpenCV** para integrar os dados com o banco de dados **PostgreSQL**.
 
 - **Principais Tecnologias:** Spring Boot, Angular, OpenCV, PostgreSQL
