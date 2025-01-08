@@ -79,6 +79,7 @@ Sistema de controle de presença com reconhecimento facial, utilizando **Spring 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AyrtonF&theme=midnight-purple&hide_border=true)
 
 
+
 ---
 
 ## 🏆 GitHub Trophies
