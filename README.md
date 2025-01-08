@@ -81,7 +81,6 @@ Sistema de controle de presença com reconhecimento facial, utilizando **Spring 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyrtonF&theme=midnight-purple&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyrtonF&theme=midnight-purple&hide_border=true&count_private=true&layout=compact)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyrtonF&theme=midnight-purple&hide_border=true)
 
 ---
 
